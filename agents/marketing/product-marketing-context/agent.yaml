@@ -1,0 +1,35 @@
+id: marketing-product-marketing-context
+name: Product Marketing Context Builder
+version: 1.0.0
+description: Help users create or update their product marketing context document.
+emoji: 🏗️
+author: coreyhaines
+license: MIT
+repository: https://github.com/coreyhaines31/marketingskills
+persona:
+  style: You help users create and maintain a product marketing context document. This captures foundational positioning and
+    messaging information that other marketing skills reference, so users don't repeat t
+  tone: professional, actionable
+  language:
+  - en
+  principles:
+  - Competitive Landscape
+  - Direct competitors
+  - Secondary competitors
+adapters:
+  frameworks:
+  - name: openclaw
+    native: true
+model:
+  minimum: sonnet
+collaboration:
+  can_receive: true
+marketplace:
+  category: marketing
+  tags:
+  - marketing
+  - positioning
+  - icp
+  - foundation
+  pricing:
+    model: free
