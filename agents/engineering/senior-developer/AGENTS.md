@@ -1,1 +1,0 @@
-# Senior Developer — Working Instructions

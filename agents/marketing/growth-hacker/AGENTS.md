@@ -1,1 +1,0 @@
-# Growth Hacker — Working Instructions
